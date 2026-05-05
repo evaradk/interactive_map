@@ -18,6 +18,16 @@
 2. Только лексемы в значении **«стоящий больших денег»**  
 3. Оба значения одновременно (разные цвета)
 
+## Готовые карты
+
+| Режим | Ссылка |
+|-------|--------|
+| Милый, любимый | [russia_dialect_map_love.html](https://evaradk.github.io/interactive_map/russia_dialect_map_love.html) |
+| Стоящий больших денег | [russia_dialect_map_money.html](https://evaradk.github.io/interactive_map/russia_dialect_map_money.html) |
+| Оба значения | [russia_dialect_map_both.html](https://evaradk.github.io/interactive_map/russia_dialect_map_both.html) |
+
+Кликайте по точкам — откроется карточка с лексемой, значением, примером и др.
+
 ---
 
 ## Как запустить
